@@ -1,0 +1,22 @@
+{
+    "author": {
+      "name": "Lazy",
+      "id": "264078109370875904"
+    },
+    "service": "Anonfile",
+    "description": {
+      "en": "Anonfile is a anonymous file sharing website."
+    },
+    "url": "anonfile.com",
+    "regExp": "anonfile.*",
+    "version": "1.0",
+    "logo": "https://anonfile.com/img/favicon/favicon-32x32-anonfile.png?1554382134",
+    "thumbnail": "https://anonfile.com/img/favicon/favicon-32x32-anonfile.png?1554382134",
+    "color": "#000000",
+    "tags": ["File",
+             "Anon",
+            "Anonfile"
+        ],
+    "category": "other",
+    "iframe": false
+  }
